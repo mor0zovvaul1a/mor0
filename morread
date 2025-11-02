@@ -1,0 +1,9 @@
+
+---
+
+### 📄 **data/sample.csv**
+```csv
+name,age,city
+Alice,25,London
+Bob,30,Paris
+Charlie,22,Berlin
